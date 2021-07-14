@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   liquid_swipe: ^2.1.0
   get: ^4.1.4
+  velocity_x: ^3.3.0
 
 dev_dependencies:
   flutter_test:
@@ -54,6 +55,7 @@ flutter:
     - assets/images/chel.png
     - assets/images/liv.png
     - assets/images/tot.png
+    - assets/images/xhaka.jpg
     - assets/icons/stadium.png
     - assets/icons/premier.png
   #   - images/a_dot_ham.jpeg
